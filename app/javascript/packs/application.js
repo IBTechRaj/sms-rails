@@ -14,4 +14,3 @@ ActiveStorage.start();
 
 import "bootstrap";
 import "../stylesheets/style";
-import "stylesheets/application";
